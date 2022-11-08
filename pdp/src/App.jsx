@@ -6,6 +6,7 @@ import Header from 'home/Header';
 import Footer from 'home/Footer';
 import PdpContent from './PdpContent';
 import "./index.scss";
+import 'remixicon/fonts/remixicon.css';
 
 const App = () => (
     <Router>
